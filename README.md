@@ -13,7 +13,7 @@ KPI monitoring and business decision support.
 - Delivered insights that informed pricing strategy and quarterly business planning
 
 ## Dashboard Preview
-![Dashboard Overview](screenshots/sales_dashboard.png)
+![Dashboard Overview](sales_dashboard.png)
 
 ## Features
 - Interactive slicers for region, product category, and time period
